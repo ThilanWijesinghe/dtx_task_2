@@ -7,3 +7,18 @@
     justify-content: center;
     justify-items: center;
 }
+
+.p1 {
+    color: #bdbfc3;
+    margin-top: -43px;
+    margin-left: 80px;
+}
+
+.bt {
+    background-color: #bfdf32;
+    color: white;
+    width: 230px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+}

@@ -16,27 +16,39 @@
 
     <div class="container-fluid cen">
         <div class="col-6  bg-white ">
+            <div class="offset-1">
 
-            <h3 class="offset-1 mt-4" style="color: #2bb3b1;">Join our community</h3> <br>
-            <h5 class="offset-1" style="color: #cadd6a;">30-day, hassle-free money back guarantee</h5>
-            <p class="offset-1" style="color: #bdbfc3;">Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills.</p>
 
+                <h3 class=" mt-4" style="color: #2bb3b1;">Join our community</h3> <br>
+                <h5 class="" style="color: #cadd6a;">30-day, hassle-free money back guarantee</h5>
+                <p class="" style="color: #bdbfc3;">Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills.</p>
+            </div>
+            <div class="col-6  d-block d-md-flex ">
+                <div style="background-color: #2bb3b1;" class=" col-12">
+                    <div class="offset-1 mt-5">
+                        <h5 style="color: white;" class="mb-3">Monthly Subscription</h5>
+                        <h1 style="color: white;">$29</h1>
+                        <p class="p1 ">per month </p>
+                        <p  style="color: white;"> Full access for less than $1 a day  </p>
+
+
+                    </div>
+                    <button class="bt mt-3 mb-5 offset-1">Sign Up</button>
+                </div>
+
+
+                <div style="background-color: #4abebd;" class=" col-12  ">
+                    <div class="offset-1 mt-5">
+                        <h5 style="color: white;" class="mb-3">Why Us </h5>
+                        <p style="color: white; ">Tutorials by industry experts Peer & expert code review Coding exercises Access to our GitHub repos Community forum Flashcard decks New videos every week</p>
+                    </div>
+
+                </div>
+
+            </div>
         </div>
 
-        <div class="col-6  d-block d-md-flex ">
-            <div class="row bg-black col-3">
-                <h5>fghgfds</h5>
-            </div>
 
-
-            <div class=" row bg-dark col-3  ">
-
-                <h5>sdfghgfds</h5>
-
-
-            </div>
-
-        </div>
 
 
 
