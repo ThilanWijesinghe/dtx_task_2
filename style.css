@@ -1,0 +1,9 @@
+.bac {
+    background-color: #e6eff6;
+}
+
+.cen {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
